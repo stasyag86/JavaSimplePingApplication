@@ -2,7 +2,7 @@
 Simple Ping and Trace Route application
 
 
-Ping with ICMP protocol
+#Ping with ICMP protocol
 We should constantly ping these hosts. It should be scheduled with a given delay we do the ping command.
 
 #Ping with TCP/IP protocol
